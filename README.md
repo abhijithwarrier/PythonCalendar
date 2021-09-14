@@ -6,6 +6,6 @@ The calendar module allows output calendars like the program and provides additi
 ### 📦 The calendar package is an inbuilt package in Python
 
 
-# OUTPUT OF THE PYTHON SCRIPT:
+# Result Of The Python Script:
 <img width="632" alt="image" src="https://user-images.githubusercontent.com/46685919/133202804-7a2b9b1b-cee0-4039-8665-b095b40482d4.png">
 
